@@ -54,15 +54,44 @@ h1{
     padding-left: 14%;
     padding-top: 4%;
 }
-.line-style{}
-.line-style h2{
-    text-align: center;
-    color:#575757;
-    font-size: 32px;
+.line-style{
+    margin-bottom: 50px;
 }
-.line-style h3{
-    text-align: center;
-    font-weight: 100;
+.line-style h2 {
+	text-align: center;
+	color: #575757;
+	font-size: 32px;
+	margin-bottom: 40px;
+}
+.line-style h3 {
+	text-align: center;
+	color: #828282;
+	line-height: 10px;
+	font-size: 19px;
+	font-weight: 40;
+}
+.food-chart {
+	box-shadow: 10px 10px 25px gray;
+	width: 50%;
+	margin-left: 2%;
+	margin-right: 0%;
+	padding: 20px;
+	border-radius: 28px;
+}
+.food-chart img {
+        height: 300px;
+        width:500px;
+}
+.food-chart h2{
+    font-size: 30px;
+}
+.food-chart h3 {
+	line-height: 10px;
+	font-weight: 80;
+	font-size: 18px;
     color:#828282;
-    line-height: 10px;
+}
+.about-foodchart{
+    padding-left: 14%;
+    padding-right: 14%;
 }
