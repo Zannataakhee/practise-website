@@ -95,3 +95,44 @@ h1{
     padding-left: 14%;
     padding-right: 14%;
 }
+.viewer-details {
+	display: flex;
+	padding-left: 16%;
+	padding-bottom: 3%;
+}
+.total-viewers {
+	padding: 104px;
+	height: 78px;
+}
+.total-viewers h1 {
+	font-size: 38px;
+	color: black;
+}
+.total-viewers h3 {
+	font-size: 18px;
+	font-weight: 80;
+	color: #575757;
+}
+.style-shadow {
+	display: flex;
+	box-shadow: 5px 5px 20px gray;
+	width: 86%;
+}
+.about-fresh-food{
+    text-align: center;
+    background-color: #0B0D17;
+    height: 150px;
+}
+.about-fresh-food h2 {
+	color: #505051;
+	font-size: 25px;
+	padding-top: 28px;
+}
+#color-eat{
+    color:orange;
+}
+.about-fresh-food h3 {
+	color: white;
+	font-size: 16px;
+	font-weight: 20;
+}
